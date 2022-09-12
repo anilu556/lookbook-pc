@@ -75,10 +75,12 @@ const ProductComponentOtono = () => {
           <CardsContainer>
           <div style={{ width: "600px", height: "817px" }}>
               <img
+                className="img1"
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_5.jpg"
+                src="/arquivos/01-LOOK BOOKFW22.jpg"
               />
               <a
+                className="showMore01"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -86,8 +88,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "40%",
-                  left: "25%",
+                  top: "38%",
+                  left: "28.1%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -102,10 +104,11 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_4.jpg
+                src="/arquivos/02-LOOK BOOKFW22.jpg
                 "
               />
               <a
+                className="showMore02"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -113,8 +116,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "41%",
-                  left: "20%",
+                  top: "39%",
+                  left: "16.5%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -125,6 +128,7 @@ const ProductComponentOtono = () => {
                 Ver más
               </a>
               <a
+                className="showMore03"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -132,8 +136,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "80%",
-                  left: "20%",
+                  top: "40%",
+                  left: "21.5%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -148,9 +152,10 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_3.jpg"
+                src="/arquivos/03-LOOK BOOKFW22.jpg"
               />
               <a
+                className="showMore04"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -159,7 +164,7 @@ const ProductComponentOtono = () => {
                   alignItems: "center",
                   position: "absolute",
                   top: "40%",
-                  left: "14%",
+                  left: "11.5%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -170,6 +175,7 @@ const ProductComponentOtono = () => {
                 Ver más
               </a>
               <a
+                className="showMore05"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -177,8 +183,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "54%",
-                  left: "15%",
+                  top: "66%",
+                  left: "13%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -193,9 +199,10 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_2.jpg"
+                src="/arquivos/04-LOOK BOOKFW22.jpg"
               />
               <a
+                className="showMore06"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -203,8 +210,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "18%",
-                  left: "8.4%",
+                  top: "39%",
+                  left: "8.1%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -215,6 +222,7 @@ const ProductComponentOtono = () => {
                 Ver más
               </a>
               <a
+                className="showMore07"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -223,7 +231,7 @@ const ProductComponentOtono = () => {
                   alignItems: "center",
                   position: "absolute",
                   top: "64%",
-                  left: "7.0%",
+                  left: "6.6%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -239,7 +247,7 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_1.jpg"
+                src="/arquivos/05-LOOK BOOKFW22.jpg"
               />
               <p
                 className="swipeUp"
@@ -262,6 +270,7 @@ const ProductComponentOtono = () => {
                 Desliza hacia arriba
               </p>
               <a
+                className="showMore08"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -270,7 +279,7 @@ const ProductComponentOtono = () => {
                   alignItems: "center",
                   position: "absolute",
                   top: "40%",
-                  left: "3.5%",
+                  left: "1.5%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -286,9 +295,10 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_16.jpg"
+                src="/arquivos/06-LOOK BOOKFW22.jpg"
               />
               <a
+                className="showMore09"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -297,7 +307,7 @@ const ProductComponentOtono = () => {
                   alignItems: "center",
                   position: "absolute",
                   top: "38%",
-                  left: "70.5%",
+                  left: "71.4%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -313,9 +323,10 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_15.jpg"
+                src="/arquivos/07-LOOK BOOKFW22.jpg"
               />
               <a
+                className="showMore10"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -335,6 +346,7 @@ const ProductComponentOtono = () => {
                 Ver más
               </a>
               <a
+                className="showMore11"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -342,8 +354,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "64%",
-                  left: "69.2%",
+                  top: "49%",
+                  left: "68.3%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -359,9 +371,10 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_14.jpg"
+                src="/arquivos/08-LOOK BOOKFW22.jpg"
               />
               <a
+                className="showMore12"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -369,8 +382,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "26%",
-                  left: "62%",
+                  top: "39%",
+                  left: "61.5%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -381,6 +394,7 @@ const ProductComponentOtono = () => {
                 Ver más
               </a>
               <a
+                className="showMore13"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -405,9 +419,10 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_13.jpg"
+                src="/arquivos/09-LOOK BOOKFW22.jpg"
               />
               <a
+                className="showMore14"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -415,8 +430,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "27%",
-                  left: "52.7%",
+                  top: "39%",
+                  left: "52.9%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -427,6 +442,7 @@ const ProductComponentOtono = () => {
                 Ver más
               </a>
               <a
+                className="showMore15"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -434,8 +450,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "10%",
-                  left: "56.9%",
+                  top: "46%",
+                  left: "58.2%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -451,9 +467,10 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_10.jpg"
+                src="/arquivos/10-LOOK BOOKFW22.jpg"
               />
               <a
+                className="showMore16"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -461,8 +478,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "29%",
-                  left: "47.6%",
+                  top: "39%",
+                  left: "48.0%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -473,6 +490,7 @@ const ProductComponentOtono = () => {
                 Ver más
               </a>
               <a
+                className="showMore17"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -481,7 +499,7 @@ const ProductComponentOtono = () => {
                   alignItems: "center",
                   position: "absolute",
                   top: "60%",
-                  left: "50.9%",
+                  left: "51.5%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -495,9 +513,10 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_9.jpg"
+                src="/arquivos/11-LOOK BOOKFW22.jpg"
               />
               <a
+                className="showMore18"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -505,8 +524,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "60%",
-                  left: "46.3%",
+                  top: "64%",
+                  left: "46.4%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -521,9 +540,10 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_8.jpg"
+                src="/arquivos/12-LOOK BOOKFW22.jpg"
               />
               <a
+                className="showMore19"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -531,8 +551,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "24%",
-                  left: "39.8%",
+                  top: "38%",
+                  left: "41.7%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -546,9 +566,10 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_7.jpg"
+                src="/arquivos/13-LOOK BOOKFW22.jpg"
               />
               <a
+                className="showMore20"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -556,8 +577,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "71%",
-                  left: "34.7%",
+                  top: "65%",
+                  left: "36.6%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -568,6 +589,7 @@ const ProductComponentOtono = () => {
                 Ver más
               </a>              
               <a
+                className="showMore21"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -575,8 +597,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "26%",
-                  left: "34.4%",
+                  top: "43%",
+                  left: "38.1%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -590,9 +612,10 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_6.jpg"
+                src="/arquivos/14-LOOK BOOKFW22.jpg"
               />
               <a
+                className="showMore22"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -600,8 +623,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "61%",
-                  left: "29.5%",
+                  top: "68%",
+                  left: "31.6%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -612,6 +635,7 @@ const ProductComponentOtono = () => {
                 Ver más
               </a>             
               <a
+                className="showMore23"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -619,8 +643,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "29%",
-                  left: "29.8%",
+                  top: "43%",
+                  left: "33.1%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -634,9 +658,10 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_19.jpg"
+                src="/arquivos/15-LOOK BOOKFW22.jpg"
               />
               <a
+                className="showMore24"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -644,8 +669,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "56%",
-                  left: "75%",
+                  top: "40%",
+                  left: "78%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -659,9 +684,10 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_18.jpg"
+                src="/arquivos/16-LOOK BOOKFW22.jpg"
               />
               <a
+                className="showMore25"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -669,8 +695,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "24%",
-                  left: "81.9%",
+                  top: "39%",
+                  left: "82.9%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -681,6 +707,7 @@ const ProductComponentOtono = () => {
                 Ver más
               </a>
               <a
+                className="showMore26"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -688,8 +715,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "64%",
-                  left: "81.7%",
+                  top: "67%",
+                  left: "81.4%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -703,9 +730,10 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_22.jpg"
+                src="/arquivos/17-LOOK BOOKFW22.jpg"
               />
               <a
+                className="showMore27"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -713,8 +741,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "26%",
-                  left: "85.8%",
+                  top: "38%",
+                  left: "86.6%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -725,6 +753,7 @@ const ProductComponentOtono = () => {
                 Ver más
               </a>
               <a
+                className="showMore28"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -732,8 +761,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "62%",
-                  left: "86.9%",
+                  top: "67%",
+                  left: "87.9%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -747,9 +776,10 @@ const ProductComponentOtono = () => {
             <div style={{ width: "600px", height: "817px" }}>
               <img
                 style={{ width: "600px", height: "817px" }}
-                src="/arquivos/LOOK BOOK SS22_21.jpg"
+                src="/arquivos/18-LOOK BOOKFW22.jpg"
               />
               <a
+                className="showMore29"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -757,8 +787,60 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "24%",
-                  left: "91.0%",
+                  top: "70%",
+                  left: "96.8%",
+                  textDecoration: "none",
+                  background: "white",
+                  borderRadius: "2px",
+                  color: "grey"
+                }}
+                href="https://aldoconti.myvtex.com/hombre/ropa/trajes/?O=OrderByReleaseDateDESC"
+              >
+                Ver más
+              </a>
+            </div>
+            <div style={{ width: "600px", height: "817px" }}>
+              <img
+                style={{ width: "600px", height: "817px" }}
+                src="/arquivos/19-LOOK BOOKFW22.jpg"
+              />
+              <a
+                className="showMore30"
+                style={{
+                  width: "70px",
+                  height: "20px",
+                  display: "flex",
+                  justifyContent: "center",
+                  alignItems: "center",
+                  position: "absolute",
+                  top: "69%",
+                  left: "92.9%",
+                  textDecoration: "none",
+                  background: "white",
+                  borderRadius: "2px",
+                  color: "grey"
+                }}
+                href="https://aldoconti.myvtex.com/hombre/ropa/trajes/?O=OrderByReleaseDateDESC"
+              >
+                Ver más
+              </a>
+            </div>
+            <div style={{ width: "600px", height: "817px" }}>
+              <img
+                style={{ width: "600px", height: "817px" }}
+                src="/arquivos/20-LOOK BOOKFW22.jpg"
+              />
+              <a
+                className="showMore31"
+                style={{
+                  width: "70px",
+                  height: "20px",
+                  display: "flex",
+                  justifyContent: "center",
+                  alignItems: "center",
+                  position: "absolute",
+                  top: "37%",
+                  left: "91.5%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
@@ -769,6 +851,7 @@ const ProductComponentOtono = () => {
                 Ver más
               </a>
               <a
+                className="showMore32"
                 style={{
                   width: "70px",
                   height: "20px",
@@ -776,8 +859,8 @@ const ProductComponentOtono = () => {
                   justifyContent: "center",
                   alignItems: "center",
                   position: "absolute",
-                  top: "62%",
-                  left: "95.6%",
+                  top: "39%",
+                  left: "98%",
                   textDecoration: "none",
                   background: "white",
                   borderRadius: "2px",
