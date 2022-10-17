@@ -95,7 +95,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://www.aldoconti.com/hombre/ropa/trajes/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/sacos/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -123,7 +123,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/pantalones/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/sacos/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -143,7 +143,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/zapatos/casual/"
+                href="/hombre/ropa/chamarras/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -170,7 +170,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/playeras/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/sacos/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -190,7 +190,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/bermudas/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/pantalones/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -217,7 +217,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/accesorios/lentes/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/sacos/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -237,7 +237,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/traje-de-bano"
+                href="/hombre/ropa/pantalones/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -285,7 +285,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/sacos/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/chamarras/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -313,7 +313,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/playeras/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/sacos/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -341,7 +341,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/zapatos/casual/"
+                href="/hombre/zapatos"
               >
                 Ver más
               </a>
@@ -361,7 +361,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://www.aldoconti.com/hombre/ropa/jeans/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/sacos/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -389,7 +389,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/gabardinas/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/chamarras/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -409,7 +409,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/zapatos/formal/"
+                href="/hombre/zapatos"
               >
                 Ver más
               </a>
@@ -437,7 +437,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/sweaters/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/chamarras/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -457,7 +457,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/accesorios/sombreros/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/chamarras/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -485,7 +485,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/guayaberas/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/chamarras/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -505,7 +505,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/bermudas/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/pantalones/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -531,7 +531,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/pantalones/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/pantalones/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -558,7 +558,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                 href="https://aldoconti.myvtex.com/hombre/ropa/sacos/?O=OrderByReleaseDateDESC"
+                 href="/hombre/ropa/sacos/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -584,7 +584,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/bermudas/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/pantalones/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>              
@@ -604,7 +604,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                 href="https://aldoconti.myvtex.com/hombre/ropa/camisas/?O=OrderByReleaseDateDESC"
+                 href="/hombre/ropa/chamarras/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -630,7 +630,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/traje-de-bano"
+                href="/hombre/ropa/pantalones/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>             
@@ -650,7 +650,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/cadena?_q=cadena&map=ft"
+                href="/hombre/ropa/sacos/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -676,7 +676,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/pantalones/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/chamarras/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -702,7 +702,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/camisas/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/sacos/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -722,7 +722,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/sudaderas?map=category-1,category-2,category-3,category-3&query=/hombre/ropa/pants/sudaderas&searchState"
+                href="/hombre/ropa/pantalones/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -748,7 +748,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/sacos/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/camisas/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -768,7 +768,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/pantalones/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/pantalones/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -794,7 +794,8 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/trajes/?O=OrderByReleaseDateDESC"
+                href="
+                /hombre/ropa/pantalones/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -820,7 +821,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/trajes/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/pantalones/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
@@ -846,7 +847,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/accesorios/corbatas-y-set/?O=OrderByReleaseDateDESC"
+                href="/hombre/accesorios?initialMap=c,c&initialQuery=hombre/accesorios&map=category-1,category-2,category-3&query=/hombre/accesorios/bufandas&searchState"
               >
                 Ver más
               </a>
@@ -866,7 +867,7 @@ const ProductComponentOtono = () => {
                   borderRadius: "2px",
                   color: "grey"
                 }}
-                href="https://aldoconti.myvtex.com/hombre/ropa/trajes/?O=OrderByReleaseDateDESC"
+                href="/hombre/ropa/chamarras/?O=OrderByReleaseDateDESC"
               >
                 Ver más
               </a>
